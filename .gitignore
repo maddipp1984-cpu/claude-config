@@ -1,0 +1,30 @@
+# Credentials – niemals in Git!
+.credentials.json
+
+# Runtime & Cache
+cache/
+debug/
+downloads/
+file-history/
+paste-cache/
+shell-snapshots/
+statsig/
+telemetry/
+backups/
+
+# Session-Daten
+history.jsonl
+plans/
+tasks/
+todos/
+ide/
+
+# Auto-generierte Projekt-Memories
+projects/
+
+# Plugins (werden neu installiert)
+plugins/
+
+# Stats
+stats-cache.json
+mcp-needs-auth-cache.json
